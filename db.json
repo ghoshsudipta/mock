@@ -61,7 +61,7 @@
          "offerValue":"3"
       }
    ],
-   "offerDetails": [
+   "offerDetails": 
       { 
          "id":"215855",
          "activated":false,
@@ -88,5 +88,5 @@
             }
          ]
       }
-   ]
+   
 }
