@@ -77,13 +77,15 @@
          "requiresActivation":true,
          "offerValue":"3",
          store: [
-            "id": "215855",
+            {
+               "id": "215855",
             "address": "1011 Elkgrove Ave.",
             "city":"Venice",
             "zip":"Los Angeles",
             "lat":"5.4434",
             "long":"34.445",
             "distance":"24.4"
+            }
          ]
       }
    ]
