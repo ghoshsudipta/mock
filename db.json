@@ -118,6 +118,11 @@
          "merchantId":"559",
          "requiresActivation":true,
          "offerValue":"3"
-      }
+      },
+   "share":{
+      "lastMonthDistribution":"21",
+      "totalDistribution": "2231",
+      "totalInvitees": "12"
+   }
    
 }
