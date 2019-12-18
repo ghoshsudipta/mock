@@ -121,11 +121,11 @@
             "year": "2018"
           },
           {
-            accountId: "28F851A9D2E31ED9A4E712D51AF9F92A",
-            label: "02-2018",
-            statementDate: "2018-02-28",
-            statementId: "67",
-            year: "2018"
+            "accountId": "28F851A9D2E31ED9A4E712D51AF9F92A",
+            "label": "02-2018",
+            "statementDate": "2018-02-28",
+            "statementId": "67",
+            "year": "2018"
           },
           {
             "accountId": "28F851A9D2E31ED9A4E712D51AF9F92A",
